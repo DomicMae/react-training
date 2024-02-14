@@ -8,6 +8,7 @@ function HomePage() {
       </div>
     </>
   );
+  n;
 }
 
 export default HomePage;
